@@ -1,2 +1,2 @@
 # JavaSciptDom
-Document my joureny of learning JsDom
+Document my joureny of learning JavaScript Dom
