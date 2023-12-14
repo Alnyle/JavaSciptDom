@@ -1,2 +1,2 @@
 # JavaSciptDom
-Document my joureny of discovering javaScript
+Document my joureny of discovering javaScript DOM
